@@ -21,4 +21,4 @@ This is a Real Estate website built with the [Django](https://www.djangoproject.
     username = admin
     password = admin
     ```
-7. To access GraphQl server run `http://127.0.0.1:8000/`
+7. To access server run `http://127.0.0.1:8000/`
